@@ -1,0 +1,100 @@
+<div class="page">
+    <text>
+        基础组件
+    </text>
+    <div class="content">
+        <div class="item"><text>
+                Text 文本
+            </text> </div>
+        <div class="item"> <text>
+                Image 图片
+            </text>Image 图片</div>
+        <div class="item"> <text>
+                Progress 进度条
+            </text></div>
+        <div class="item"> <text>
+                Rating
+            </text></div>
+        <div class="item"> <text>
+                Span
+            </text></div>
+        <div class="item"> <text>
+                Marquee
+            </text></div>
+        <div class="item"> <text>
+                Image-animator
+            </text></div>
+        <div class="item"> <text>
+                Divider
+            </text></div>
+        <div class="item"> <text>
+                Search
+            </text></div>
+        <div class="item"> <text>
+                Menu
+            </text></div>
+        <div class="item"> <text>
+                Chart
+            </text></div>
+    </div>
+
+    <text>
+        容器组件
+    </text>
+    <div class="item"> <text>
+            Div
+        </text></div>
+    <div class="item"> <text>
+            List
+        </text></div>
+    <div class="item"> <text>
+            List-item
+        </text></div>
+    <div class="item"> <text>
+            List-item-group
+        </text></div>
+    <div class="item">
+        <text>Stack</text>
+    </div>
+
+    <div class="item">
+        <text>
+            Swiper
+        </text>
+    </div>
+    <div class="item">
+        <text>
+            Tabs
+        </text>
+    </div>
+    <div class="item">
+        <text>
+            Tab-bar
+        </text>
+    </div>
+
+    <div class="item">
+        <text>Tab-content</text>
+    </div>
+
+    <div class="item">
+        <text>Refresh</text>
+    </div>
+
+    <div class="item">
+        <text>Dialog</text>
+    </div>
+
+    <text>媒体组件</text>
+
+    <div class="item">
+        <text>Video</text>
+    </div>
+
+    <text>画布组件</text>
+
+    <div class="item">
+        <text>Canvas</text>
+    </div>
+
+</div>
